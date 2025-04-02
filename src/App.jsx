@@ -17,6 +17,10 @@ export function App() {
         author = "Mickey" 
         content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi voluptatibus, natus dolore consectetur temporibus praesentium ex, adipisci soluta, alias a molestiae? Sint molestias impedit quis magnam possimus odit doloremque sed?"
         />
+        <Post 
+        author = "Mickey" 
+        content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi voluptatibus, natus dolore consectetur temporibus praesentium ex, adipisci soluta, alias a molestiae? Sint molestias impedit quis magnam possimus odit doloremque sed?"
+        />
         </main>
       </div>
       
